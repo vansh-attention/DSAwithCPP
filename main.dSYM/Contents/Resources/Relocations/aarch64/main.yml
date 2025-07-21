@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vansh_uni/Documents/coding_basic/DSAwithCPP/main'
+relocations:     []
+...
