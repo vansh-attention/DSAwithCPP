@@ -1,7 +1,3 @@
-//
-//  test1.cpp
-//  test.cpp
-//
 
 #include <iostream>
 
@@ -22,6 +18,6 @@ int main()
 	e.Print();
     e1.Print();
 }
-	
+
 
 
