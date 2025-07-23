@@ -2,8 +2,6 @@
 //  test1.cpp
 //  test.cpp
 //
-//  Created by Vansh Khosla on 24/04/25.
-//
 
 #include <iostream>
 
